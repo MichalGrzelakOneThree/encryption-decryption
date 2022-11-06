@@ -22,5 +22,5 @@ Work with files: learn to store your data in a file.<br>
 <b>Stage 6/6:</b>
 Add the possibility to choose a specific encryption algorithm: Ceasar or Unicode.
 
-Final source code for last stage can be found below:
+Final source code for last stage can be found below:<br>
 https://github.com/MichalGrzelakOneThree/encryption-decryption/tree/main/Encryption-Decryption/task/src
