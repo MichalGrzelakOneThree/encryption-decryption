@@ -5,7 +5,11 @@ Encryption-decryption application for educational purpose.
 
 <b>Description via Jet Brains Academy (educational platform):</b>
 
-Privacy is an important matter is the realm of the Internet. When sending a message, you want to be sure that no-one but the addressee with the key can read it. The entirety of the modern Web is encrypted - take https for example! Don’t stay behind: hop on the encryption/decryption train and learn the essential basics while implementing this simple project.
+Privacy is an important matter is the realm of the Internet. When sending a message, you want to be sure that no-one but the addressee with the key can read it. The entirety of the modern Web is encrypted - take https for example! Don’t stay behind: hop on the encryption/decryption train and learn the essential basics while implementing this simple project.<br>
+
+Full description:<br>
+https://hyperskill.org/projects/46?track=12
+
 
 <b>What you'll do and what you'll learn:</b>
 
